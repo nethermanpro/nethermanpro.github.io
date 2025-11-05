@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-连玉君的个人主页
+Front page for Chenyang Le
