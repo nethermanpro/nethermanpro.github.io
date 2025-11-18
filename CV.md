@@ -27,6 +27,7 @@ Beyond my academic work, I am passionate about translating cutting-edge research
 
 ## Awards
 
+- 2025, Zhao Zhu Mulan Doctoral Scholarship
 - 2023, Outstanding Graduate of Shanghai Jiao Tong University
 - 2022, Liu Yongling Special Scholarship
 - 2021, Second Prize, Shanghai Division, National Undergraduate Mathematical Modeling Contest
