@@ -1,100 +1,72 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Front page for Chenyang Le"
-  },
-  {
-    "objectID": "readme.html",
-    "href": "readme.html",
-    "title": "Chenyang Le",
-    "section": "",
-    "text": "我的 个人主页 是基于 Chi Zhang (github) 的个人主页修改而来的。\n你可以 Fork 本仓库，然后酌情修改你的个人信息，编译后即可生成你的个人主页。这种方法无需注册域名，也不用学习 HTML 和 CSS 等前端知识，直接使用 GitHub Pages 即可完成个人主页的搭建。\n具体制作过程参见：\n\n连小白, 2025, 50 分钟搞定个人主页：Fork 模板 + GitHub Pages + Quarto 完整教程.\n\n本仓库的使用方法：\n\n你可以点击本页右上方的 ⭐Star 按钮来收藏本仓库，方便日后查阅；\n也可以点击 Use this template 按钮来快速 Fork 本仓库。\n你制作个人主页期间有任何问题，可以在 Discussions 提问和讨论。\n\n\n\n主页 | 课程 | 视频 | 推文 | 资料"
-  },
-  {
-    "objectID": "readme.html#如何生成个人主页",
-    "href": "readme.html#如何生成个人主页",
-    "title": "Chenyang Le",
-    "section": "",
-    "text": "我的 个人主页 是基于 Chi Zhang (github) 的个人主页修改而来的。\n你可以 Fork 本仓库，然后酌情修改你的个人信息，编译后即可生成你的个人主页。这种方法无需注册域名，也不用学习 HTML 和 CSS 等前端知识，直接使用 GitHub Pages 即可完成个人主页的搭建。\n具体制作过程参见：\n\n连小白, 2025, 50 分钟搞定个人主页：Fork 模板 + GitHub Pages + Quarto 完整教程.\n\n本仓库的使用方法：\n\n你可以点击本页右上方的 ⭐Star 按钮来收藏本仓库，方便日后查阅；\n也可以点击 Use this template 按钮来快速 Fork 本仓库。\n你制作个人主页期间有任何问题，可以在 Discussions 提问和讨论。\n\n\n\n主页 | 课程 | 视频 | 推文 | 资料"
-  },
-  {
-    "objectID": "CV.html",
-    "href": "CV.html",
-    "title": "Resume",
-    "section": "",
-    "text": "I am a Ph.D. student at Shanghai Jiao Tong University (SJTU), advised by Prof. Yanmin Qian. My research is centered on building intelligent systems that can holistically understand, translate, and generate human speech. I am particularly interested in creating seamless, expressive, and real-time cross-lingual communication, exploring topics in end-to-end speech translation, controllable speech synthesis, and multimodal emotion recognition. I have published several papers at leading international conferences in the fields of speech and artificial intelligence as first-author.\nBeyond my academic work, I am passionate about translating cutting-edge research into real-world applications. I have interned at Microsoft, Honor, and YSYB. At Honor, I played a key role in the successful launch of their on-device speech large model. I was also one of the main R&D members for the Luna-1, a pioneering multimodal emotion large model developed at YSYB.\n\nEmail: mailto:nethermanpro@sjtu.edu.cn\nGithub: https://github.com/nethermanpro\n个人主页：https://nethermanpro.github.io"
-  },
-  {
-    "objectID": "CV.html#about-me",
-    "href": "CV.html#about-me",
-    "title": "Resume",
-    "section": "",
-    "text": "I am a Ph.D. student at Shanghai Jiao Tong University (SJTU), advised by Prof. Yanmin Qian. My research is centered on building intelligent systems that can holistically understand, translate, and generate human speech. I am particularly interested in creating seamless, expressive, and real-time cross-lingual communication, exploring topics in end-to-end speech translation, controllable speech synthesis, and multimodal emotion recognition. I have published several papers at leading international conferences in the fields of speech and artificial intelligence as first-author.\nBeyond my academic work, I am passionate about translating cutting-edge research into real-world applications. I have interned at Microsoft, Honor, and YSYB. At Honor, I played a key role in the successful launch of their on-device speech large model. I was also one of the main R&D members for the Luna-1, a pioneering multimodal emotion large model developed at YSYB.\n\nEmail: mailto:nethermanpro@sjtu.edu.cn\nGithub: https://github.com/nethermanpro\n个人主页：https://nethermanpro.github.io"
-  },
-  {
-    "objectID": "CV.html#education",
-    "href": "CV.html#education",
-    "title": "Resume",
-    "section": "Education",
-    "text": "Education\n\n2023 - : PhD student, School of Computer Science, Shanghai Jiao Tong University\n2019 - 2023: Bachelor of Engineering, Shanghai Jiao Tong University, Major in Computer Science and Technology\n2016 - 2019: Shanghai High School, Math Specialty Class"
-  },
-  {
-    "objectID": "CV.html#internship-experience",
-    "href": "CV.html#internship-experience",
-    "title": "Resume",
-    "section": "Internship Experience",
-    "text": "Internship Experience\n\n2025.07 - 2025.10: Research Intern, Honor Device Inc.\n2022.11 - 2024.03: Research Intern, Microsoft Research Asia"
-  },
-  {
-    "objectID": "CV.html#awards",
-    "href": "CV.html#awards",
-    "title": "Resume",
-    "section": "Awards",
-    "text": "Awards\n\n2025, Zhao Zhu Mulan Doctoral Scholarship\n2023, Outstanding Graduate of Shanghai Jiao Tong University\n2022, Liu Yongling Special Scholarship\n2021, Second Prize, Shanghai Division, National Undergraduate Mathematical Modeling Contest\n2021, Silver Prize, National Undergraduate Algorithm Design and Programming Challenge\n2020, First Prize of the National College Student Innovation and Entrepreneurship Competition"
-  },
-  {
-    "objectID": "CV.html#conference-paper",
-    "href": "CV.html#conference-paper",
-    "title": "Resume",
-    "section": "Conference Paper",
-    "text": "Conference Paper\n\nLe, C., Han, B., Li, J., Chen, S., & Qian, Y. (2025). SimulMEGA: MoE Routers are Advanced Policy Makers for Simultaneous Speech Translation. Advances in Neural Information Processing Systems, 38. link\nLe, C., Xia, Y., Li, H., Wang, M., Sun, Y., Ma, X., & Qian, Y. (2025). Novel Parasitic Dual-Scale Modeling for Efficient and Accurate Multilingual Speech Translation. In Proc. Interspeech 2025 (pp. 908-912).link\nXia, Y., Li, H., Le, C., Wang, M., Sun, Y., Ma, X., & Qian, Y. (2025). MFLA: Monotonic Finite Look-ahead Attention for Streaming Speech Recognition. In Proc. Interspeech 2025 (pp. 4408-4412) link\nLe, C., Qian, Y., Wang, D., Zhou, L., Liu, S., Wang, X., … & Zeng, M. (2024). Transvip: Speech to speech translation system with voice and isochrony preservation. Advances in Neural Information Processing Systems, 37, 89682-89705. Link\nLe, C., Qian, Y., Zhou, L., Liu, S., Qian, Y., Zeng, M., & Huang, X. (2023). Comsl: A composite speech-language model for end-to-end speech-to-text translation. Advances in Neural Information Processing Systems, 36, 58312-58323.Link\nMeng, L., Wen, M., Le, C., Li, X., Xing, D., Zhang, W., … & Xu, B. (2023). Offline pre-trained multi-agent decision transformer. Machine Intelligence Research, 20(2), 233-248.Link"
-  },
-  {
-    "objectID": "CV.html#patent",
-    "href": "CV.html#patent",
-    "title": "Resume",
-    "section": "Patent",
-    "text": "Patent\n\n一种多语言语音翻译模型、训练方法及推理方法，发明专利，专利号：CN120808755A，中国，授权公告日：2024年10月17日\n一种基于专家路由门限的高效同声传译方法，发明专利，专利号：CN120766657A，中国，授权公告日：2025年10月10日"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Chenyang Le",
     "section": "",
-    "text": "nethermanpro@sjtu.edu.cn\n  \n  \n    \n     nethermanpro\n  \n  \n    \n     Google Scholar\n  \n\n  \n  \nI am a Ph.D. student at Shanghai Jiao Tong University (SJTU), advised by Prof. Yanmin Qian. My research is centered on building intelligent systems that can holistically understand, translate, and generate human speech. I am particularly interested in creating seamless, expressive, and real-time cross-lingual communication, exploring topics in end-to-end speech translation, controllable speech synthesis, and multimodal emotion recognition. I have published several papers at leading international conferences in the fields of speech and artificial intelligence as first-author.\nBeyond my academic work, I am passionate about translating cutting-edge research into real-world applications. I have interned at Microsoft, Honor, and YSYB. At Honor, I played a key role in the successful launch of their on-device speech large model. I was also one of the main R&D members for the Luna-1, a pioneering multimodal emotion large model developed at YSYB.\n\n\n\n2023 - : PhD student, School of Computer Science, Shanghai Jiao Tong University\n2019 - 2023: Bachelor of Engineering, Shanghai Jiao Tong University, Major in Computer Science and Technology\n2016 - 2019: Shanghai High School, Math Specialty Class"
+    "text": "nethermanpro@sjtu.edu.cn\n  \n  \n    \n     nethermanpro\n  \n  \n    \n     Google Scholar\n  \n  \n    \n     CV\n  \n\n  \n  \nI am a Ph.D. student at Shanghai Jiao Tong University (SJTU), advised by Prof. Yanmin Qian in the AudioCC Lab. I work on speech large language models and end-to-end simultaneous speech translation (SimulST / S2ST). The question I keep coming back to is how a speech LLM should decide when to listen and when to speak on an unbounded audio stream, with a quality–latency trade-off that can actually be measured. My recent work approaches this with fine-grained streaming read/write policies learned via reinforcement learning (actor-critic self-enhancement, GRPO post-training with LLM-judge rewards), and I am now extending it toward proactive, full-duplex real-time interaction.\nI have published first-author papers at NeurIPS 2023, 2024, 2025 and 2026 on speech translation. Beyond papers, I care about systems that run: our end-to-end Chinese–English simultaneous interpretation system outperforms commercial real-time translation APIs under a unified evaluation protocol, and the on-device multilingual translation model I worked on at Honor shipped with the Magic V5 (MagicSpeech). I am currently a research intern on the Qwen Omni team at Alibaba, and previously interned at Microsoft Research Asia and Honor.\n\n\n\n2026.09 CRESiST, a self-enhancing actor-critic framework for simultaneous speech translation, is accepted at NeurIPS 2026.\n2026.09 Our end-to-end simultaneous interpretation system was demonstrated at the 2026 Global Digital Trade Expo (Hangzhou).\n2026.01 Started as a research intern on the Qwen Omni team, Alibaba, working on simultaneous interpretation and proactive interaction.\n2025.09 SimulMEGA is accepted at NeurIPS 2025.\n2025.08 Two papers with Honor accepted at Interspeech 2025; the on-device speech model shipped with Honor Magic V5.\n\n\n\n\n\n2026.01 – present: Research Intern, Qwen Omni Team, Alibaba Group\n2025.07 – 2025.10: Research Intern, Honor Device Inc.\n2022.11 – 2024.03: Research Intern, Microsoft Research Asia\n\n\n\n\n\n2023 – present: Ph.D. student, School of Computer Science, Shanghai Jiao Tong University\n2019 – 2023: B.Eng. in Computer Science and Technology, Shanghai Jiao Tong University\n2016 – 2019: Shanghai High School, Math Specialty Class"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Chenyang Le",
+    "section": "",
+    "text": "2026.09 CRESiST, a self-enhancing actor-critic framework for simultaneous speech translation, is accepted at NeurIPS 2026.\n2026.09 Our end-to-end simultaneous interpretation system was demonstrated at the 2026 Global Digital Trade Expo (Hangzhou).\n2026.01 Started as a research intern on the Qwen Omni team, Alibaba, working on simultaneous interpretation and proactive interaction.\n2025.09 SimulMEGA is accepted at NeurIPS 2025.\n2025.08 Two papers with Honor accepted at Interspeech 2025; the on-device speech model shipped with Honor Magic V5."
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Chenyang Le",
+    "section": "",
+    "text": "2026.01 – present: Research Intern, Qwen Omni Team, Alibaba Group\n2025.07 – 2025.10: Research Intern, Honor Device Inc.\n2022.11 – 2024.03: Research Intern, Microsoft Research Asia"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Chenyang Le",
     "section": "",
-    "text": "2023 - : PhD student, School of Computer Science, Shanghai Jiao Tong University\n2019 - 2023: Bachelor of Engineering, Shanghai Jiao Tong University, Major in Computer Science and Technology\n2016 - 2019: Shanghai High School, Math Specialty Class"
+    "text": "2023 – present: Ph.D. student, School of Computer Science, Shanghai Jiao Tong University\n2019 – 2023: B.Eng. in Computer Science and Technology, Shanghai Jiao Tong University\n2016 – 2019: Shanghai High School, Math Specialty Class"
   },
   {
-    "objectID": "publications.html#conference-paper",
-    "href": "publications.html#conference-paper",
-    "title": "Publications",
-    "section": "Conference Paper",
-    "text": "Conference Paper\n\nLe, C., Han, B., Li, J., Chen, S., & Qian, Y. (2025). SimulMEGA: MoE Routers are Advanced Policy Makers for Simultaneous Speech Translation. Advances in Neural Information Processing Systems, 38. link\nLe, C., Xia, Y., Li, H., Wang, M., Sun, Y., Ma, X., & Qian, Y. (2025). Novel Parasitic Dual-Scale Modeling for Efficient and Accurate Multilingual Speech Translation. In Proc. Interspeech 2025 (pp. 908-912).link\nXia, Y., Li, H., Le, C., Wang, M., Sun, Y., Ma, X., & Qian, Y. (2025). MFLA: Monotonic Finite Look-ahead Attention for Streaming Speech Recognition. In Proc. Interspeech 2025 (pp. 4408-4412) link\nLe, C., Qian, Y., Wang, D., Zhou, L., Liu, S., Wang, X., … & Zeng, M. (2024). Transvip: Speech to speech translation system with voice and isochrony preservation. Advances in Neural Information Processing Systems, 37, 89682-89705. Link\nLe, C., Qian, Y., Zhou, L., Liu, S., Qian, Y., Zeng, M., & Huang, X. (2023). Comsl: A composite speech-language model for end-to-end speech-to-text translation. Advances in Neural Information Processing Systems, 36, 58312-58323.Link\nMeng, L., Wen, M., Le, C., Li, X., Xing, D., Zhang, W., … & Xu, B. (2023). Offline pre-trained multi-agent decision transformer. Machine Intelligence Research, 20(2), 233-248.Link"
+    "objectID": "readme.html",
+    "href": "readme.html",
+    "title": "nethermanpro.github.io",
+    "section": "",
+    "text": "nethermanpro.github.io\nPersonal homepage of Chenyang Le, built with Quarto.\n\nSource: index.qmd, publications.qmd, _quarto.yml, styles.scss\nBuild: quarto render → static site in docs/ (served by GitHub Pages)\nCV: CV.pdf"
   },
   {
-    "objectID": "publications.html#patent",
-    "href": "publications.html#patent",
+    "objectID": "publications.html",
+    "href": "publications.html",
     "title": "Publications",
-    "section": "Patent",
-    "text": "Patent\n\n一种多语言语音翻译模型、训练方法及推理方法，发明专利，专利号：CN120808755A，中国，授权公告日：2024年10月17日\n一种基于专家路由门限的高效同声传译方法，发明专利，专利号：CN120766657A，中国，授权公告日：2025年10月10日"
+    "section": "",
+    "text": "* first author. See also Google Scholar."
+  },
+  {
+    "objectID": "publications.html#conference-papers",
+    "href": "publications.html#conference-papers",
+    "title": "Publications",
+    "section": "Conference Papers",
+    "text": "Conference Papers\n\nLe, C.*, et al. (2026). CRESiST: Self-Enhancing Exploritive Policy Learning for Simultaneous Speech Translation. Advances in Neural Information Processing Systems (NeurIPS 2026), to appear.\nSun, H., Le, C., Wang, W., Zhang, L., Li, C., Han, B., Li, C., Bi, M., & Qian, Y. (2026). Beyond Sentence-level Labels: Integrating Conversational Context and Personal Experience for Natural Emotional Expression. Findings of the Association for Computational Linguistics: ACL 2026, 18839–18854. ACL Anthology\nLe, C.*, Han, B., Li, J., Chen, S., & Qian, Y. (2025). SimulMEGA: MoE Routers are Advanced Policy Makers for Simultaneous Speech Translation. Advances in Neural Information Processing Systems (NeurIPS 2025). OpenReview · arXiv\nLe, C.*, Xia, Y., Li, H., Wang, M., Sun, Y., Ma, X., & Qian, Y. (2025). Novel Parasitic Dual-Scale Modeling for Efficient and Accurate Multilingual Speech Translation. Proc. Interspeech 2025, 908–912. ISCA\nXia, Y., Li, H., Le, C., Wang, M., Sun, Y., Ma, X., & Qian, Y. (2025). MFLA: Monotonic Finite Look-ahead Attention for Streaming Speech Recognition. Proc. Interspeech 2025, 4408–4412. ISCA\nLe, C.*, Qian, Y., Wang, D., Zhou, L., Liu, S., Wang, X., … & Zeng, M. (2024). TransVIP: Speech to Speech Translation System with Voice and Isochrony Preservation. Advances in Neural Information Processing Systems (NeurIPS 2024), 37, 89682–89705. Proceedings · arXiv\nLe, C.*, Qian, Y., Zhou, L., Liu, S., Qian, Y., Zeng, M., & Huang, X. (2023). ComSL: A Composite Speech-Language Model for End-to-End Speech-to-Text Translation. Advances in Neural Information Processing Systems (NeurIPS 2023), 36, 58312–58323. Proceedings · arXiv"
+  },
+  {
+    "objectID": "publications.html#journal-papers",
+    "href": "publications.html#journal-papers",
+    "title": "Publications",
+    "section": "Journal Papers",
+    "text": "Journal Papers\n\nMeng, L., Wen, M., Le, C., Li, X., Xing, D., Zhang, W., … & Xu, B. (2023). Offline Pre-trained Multi-Agent Decision Transformer. Machine Intelligence Research, 20(2), 233–248. Link\nWen, Y., Wan, Z., Zhou, M., Hou, S., Cao, Z., Le, C., Chen, J., Tian, Z., Zhang, W., & Wang, J. (2022). On Realization of Intelligent Decision-Making in the Real World: A Foundation Decision Model Perspective. CAAI Artificial Intelligence Research. arXiv"
+  },
+  {
+    "objectID": "publications.html#preprints",
+    "href": "publications.html#preprints",
+    "title": "Publications",
+    "section": "Preprints",
+    "text": "Preprints\n\nChen, Y., Liang, D., Chen, Y., Gong, Z., Le, C., Wang, Z., Zhu, J., Yang, L., Lin, J., Zhang, W., & Wang, J. (2026). Hölder Policy Optimisation. arXiv:2605.12058. arXiv"
+  },
+  {
+    "objectID": "publications.html#patents",
+    "href": "publications.html#patents",
+    "title": "Publications",
+    "section": "Patents",
+    "text": "Patents\n\n一种基于专家路由门限的高效同声传译方法，中国发明专利，申请号 CN202510940032.8，公开号 CN120766657A，公开日 2025年10月10日（实质审查中）。发明人：钱彦旻、乐辰阳。Google Patents\n一种多语言语音翻译模型、训练方法及推理方法，中国发明专利，申请号 CN202510985843.X，公开号 CN120808755A，公开日 2025年10月17日（实质审查中）。发明人：钱彦旻、乐辰阳。Google Patents"
   }
 ]

@@ -1,21 +1,29 @@
 ---
 title: "Publications"
-editor: visual
 ---
- 
 
-## Conference Paper
+\* first author. See also [Google Scholar](https://scholar.google.com/citations?user=ZWsYNZsAAAAJ).
 
--   **Le, C.**, Han, B., Li, J., Chen, S., & Qian, Y. (2025). SimulMEGA: MoE Routers are Advanced Policy Makers for Simultaneous Speech Translation. Advances in Neural Information Processing Systems, 38. [link](https://arxiv.org/abs/2509.01200)
--   **Le, C.**, Xia, Y., Li, H., Wang, M., Sun, Y., Ma, X., & Qian, Y. (2025). Novel Parasitic Dual-Scale Modeling for Efficient and Accurate Multilingual Speech Translation. In Proc. Interspeech 2025 (pp. 908-912).[link](https://www.isca-archive.org/interspeech_2025/le25_interspeech.html)
--   Xia, Y., Li, H., **Le, C.**, Wang, M., Sun, Y., Ma, X., & Qian, Y. (2025). MFLA: Monotonic Finite Look-ahead Attention for Streaming Speech Recognition. In Proc. Interspeech 2025 (pp. 4408-4412) [link](https://www.isca-archive.org/interspeech_2025/xia25_interspeech.pdf)
--   **Le, C**., Qian, Y., Wang, D., Zhou, L., Liu, S., Wang, X., ... & Zeng, M. (2024). Transvip: Speech to speech translation system with voice and isochrony preservation. Advances in Neural Information Processing Systems, 37, 89682-89705.
-[Link](https://proceedings.neurips.cc/paper_files/paper/2024/hash/a32539cb16274581a17e679f6046f4bf-Abstract-Conference.html)
--   **Le, C.**, Qian, Y., Zhou, L., Liu, S., Qian, Y., Zeng, M., & Huang, X. (2023). Comsl: A composite speech-language model for end-to-end speech-to-text translation. Advances in Neural Information Processing Systems, 36, 58312-58323.[Link](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b6262f7a34e5d641cdb3d33dc9ad1a5a-Abstract-Conference.html)
--   Meng, L., Wen, M., **Le, C.**, Li, X., Xing, D., Zhang, W., ... & Xu, B. (2023). Offline pre-trained multi-agent decision transformer. Machine Intelligence Research, 20(2), 233-248.[Link](https://link.springer.com/article/10.1007/s11633-022-1383-7)
+## Conference Papers
 
+- **Le, C.**\*, et al. (2026). CRESiST: Self-Enhancing Exploritive Policy Learning for Simultaneous Speech Translation. *Advances in Neural Information Processing Systems (NeurIPS 2026)*, to appear.
+- Sun, H., **Le, C.**, Wang, W., Zhang, L., Li, C., Han, B., Li, C., Bi, M., & Qian, Y. (2026). Beyond Sentence-level Labels: Integrating Conversational Context and Personal Experience for Natural Emotional Expression. *Findings of the Association for Computational Linguistics: ACL 2026*, 18839–18854. [ACL Anthology](https://aclanthology.org/2026.findings-acl.940/)
+- **Le, C.**\*, Han, B., Li, J., Chen, S., & Qian, Y. (2025). SimulMEGA: MoE Routers are Advanced Policy Makers for Simultaneous Speech Translation. *Advances in Neural Information Processing Systems (NeurIPS 2025)*. [OpenReview](https://openreview.net/forum?id=v4AT18kysa) · [arXiv](https://arxiv.org/abs/2509.01200)
+- **Le, C.**\*, Xia, Y., Li, H., Wang, M., Sun, Y., Ma, X., & Qian, Y. (2025). Novel Parasitic Dual-Scale Modeling for Efficient and Accurate Multilingual Speech Translation. *Proc. Interspeech 2025*, 908–912. [ISCA](https://www.isca-archive.org/interspeech_2025/le25_interspeech.html)
+- Xia, Y., Li, H., **Le, C.**, Wang, M., Sun, Y., Ma, X., & Qian, Y. (2025). MFLA: Monotonic Finite Look-ahead Attention for Streaming Speech Recognition. *Proc. Interspeech 2025*, 4408–4412. [ISCA](https://www.isca-archive.org/interspeech_2025/xia25_interspeech.html)
+- **Le, C.**\*, Qian, Y., Wang, D., Zhou, L., Liu, S., Wang, X., … & Zeng, M. (2024). TransVIP: Speech to Speech Translation System with Voice and Isochrony Preservation. *Advances in Neural Information Processing Systems (NeurIPS 2024)*, 37, 89682–89705. [Proceedings](https://proceedings.neurips.cc/paper_files/paper/2024/hash/a32539cb16274581a17e679f6046f4bf-Abstract-Conference.html) · [arXiv](https://arxiv.org/abs/2405.17809)
+- **Le, C.**\*, Qian, Y., Zhou, L., Liu, S., Qian, Y., Zeng, M., & Huang, X. (2023). ComSL: A Composite Speech-Language Model for End-to-End Speech-to-Text Translation. *Advances in Neural Information Processing Systems (NeurIPS 2023)*, 36, 58312–58323. [Proceedings](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b6262f7a34e5d641cdb3d33dc9ad1a5a-Abstract-Conference.html) · [arXiv](https://arxiv.org/abs/2305.14838)
 
-## Patent
+## Journal Papers
 
-1.  一种多语言语音翻译模型、训练方法及推理方法，发明专利，专利号：CN120808755A，中国，授权公告日：2024年10月17日
-2.  一种基于专家路由门限的高效同声传译方法，发明专利，专利号：CN120766657A，中国，授权公告日：2025年10月10日
+- Meng, L., Wen, M., **Le, C.**, Li, X., Xing, D., Zhang, W., … & Xu, B. (2023). Offline Pre-trained Multi-Agent Decision Transformer. *Machine Intelligence Research*, 20(2), 233–248. [Link](https://link.springer.com/article/10.1007/s11633-022-1383-7)
+- Wen, Y., Wan, Z., Zhou, M., Hou, S., Cao, Z., **Le, C.**, Chen, J., Tian, Z., Zhang, W., & Wang, J. (2022). On Realization of Intelligent Decision-Making in the Real World: A Foundation Decision Model Perspective. *CAAI Artificial Intelligence Research*. [arXiv](https://arxiv.org/abs/2212.12669)
+
+## Preprints
+
+- Chen, Y., Liang, D., Chen, Y., Gong, Z., **Le, C.**, Wang, Z., Zhu, J., Yang, L., Lin, J., Zhang, W., & Wang, J. (2026). Hölder Policy Optimisation. *arXiv:2605.12058*. [arXiv](https://arxiv.org/abs/2605.12058)
+
+## Patents
+
+1. 一种基于专家路由门限的高效同声传译方法，中国发明专利，申请号 CN202510940032.8，公开号 CN120766657A，公开日 2025年10月10日（实质审查中）。发明人：钱彦旻、乐辰阳。[Google Patents](https://patents.google.com/patent/CN120766657A/zh)
+2. 一种多语言语音翻译模型、训练方法及推理方法，中国发明专利，申请号 CN202510985843.X，公开号 CN120808755A，公开日 2025年10月17日（实质审查中）。发明人：钱彦旻、乐辰阳。[Google Patents](https://patents.google.com/patent/CN120808755A/zh)
